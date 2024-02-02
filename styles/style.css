@@ -252,7 +252,7 @@ footer {
     min-height: 5em;
 }
 
-#email, #phone, #linkedin {
+#phone, #linkedin {
   display: none;
 }
 
@@ -297,7 +297,7 @@ footer {
     display: none;
   }
 
-  #email, #phone, #linkedin {
+   #phone, #linkedin {
     display: inline;
   }
 
